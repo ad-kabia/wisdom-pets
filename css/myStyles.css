@@ -1,0 +1,55 @@
+body {
+    background-color: #dfdfdf;
+}
+
+ h1 {
+    color: #cdae51;
+    font-weight: 700;
+ }
+
+ h2 {
+    font-size: 16pt;
+ }
+
+ h3 {
+    text-align: center;
+    font-size: 16pt;
+    padding-top: 30px;
+ }
+
+ h6 {
+    text-align: center;
+    font-weight: 700;
+ }
+
+ .container.challenge {
+    width: 100%;
+    padding-bottom: 30px;
+  }
+
+  .container.challenge .row div {
+    border:5px solid #DFDFDF;
+    background-color:white;
+    padding:10px;
+ }
+
+ img{
+    width: 100%;
+ }
+
+ p {
+    text-align: center;
+    padding-top: 30px;
+    color: #777777;
+ }
+
+ .aboutUs {
+    text-align: justify;
+    max-width: 600px;
+    margin: auto;
+    padding-bottom: 30px;
+ }
+
+.row {
+    background-color: white;
+ }
